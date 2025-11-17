@@ -1,0 +1,5 @@
+{
+  "name": "BadNight Stories Party Game",
+  "description": "A fun party game where players reveal tasks from cards on a timer. The application features 12 cards with predefined tasks that unlock sequentially every 20 minutes, or all at once.",
+  "requestFramePermissions": []
+}
